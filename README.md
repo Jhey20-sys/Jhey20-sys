@@ -21,5 +21,5 @@
 
 ---
 
-⭐️ *Always learning, always building.*
-``
+⭐️ *Ano tara?*
+
