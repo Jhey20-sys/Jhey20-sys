@@ -1,12 +1,12 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jhey+Gulde!;Student+Developer;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jhey+Gulde!;Student+Developer;A+Listening+Buddy)
 
 </div>
 
 ---
 
-## 🧙‍♂️ Player Profile
+## 🧙‍♂️ My Profile
 - 👤 **Name:** Jhey Gulde  
 - 🎓 **Class:** Student  
 - 📍 **Location:** Philippines  
@@ -17,9 +17,9 @@
 
 ## 🧠 About Me
 - 🌱 Currently learning **Web Development**
-- 💡 Curious about **software, problem‑solving, and tech**
+- 💡 Curious about **Cybersecurity, Networking Communications**
 - 🔧 Loves experimenting with new tools
-- ⚡ Fun fact: I debug more than I sleep 😅
+- ⚡ Fun fact: I always debug 😅
 
 ---
 
@@ -35,8 +35,11 @@
 ---
 
 ## 📚 Learning Journey
+✅ Python
+✅ C++
+✅ Java
 ✅ HTML  
-✅ CSS  
+✅ CSS 
 ✅ Git & GitHub  
 ⏳ JavaScript  
 🔜 React  
@@ -55,9 +58,8 @@
 ---
 
 ## 🤓 Random Facts
-- 🧩 I enjoy figuring out why my code broke  
-- ⌨️ CTRL + S every 5 seconds  
-- 📘 Believe in learning step by step  
+- 🧩 I love computing research  
+- ⌨️ I love my course
 
 ---
 
@@ -65,6 +67,3 @@
 > **“Learn. Build. Repeat.”**
 
 ---
-
-⭐️ Thanks for visiting my profile!  
-🚀 Let’s code and grow together!
