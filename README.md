@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gentium+Code&pause=1000&color=4183C4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jhey+Gulde!;Student+Developer;A+researcher;A+Listening+Buddy)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gentium+Code&pause=1000&color=4183C4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jhey+Gulde!;Student+Developer;A+researcher;A+)
 
 </div>
 
