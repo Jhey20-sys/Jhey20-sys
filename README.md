@@ -1,192 +1,173 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jhey+Gulde!+%F0%9F%91%8B;Student+Developer+%F0%9F%92%BB;Researcher+%F0%9F%9A%80;Building+Tomorrow's+Solutions+%E2%9C%A8" alt="Welcome banner">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-Jhey20--sys-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhey20-sys)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00d9ff&height=200&section=header&text=Jhey%20Gulde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Computing%20Researcher%20%7C%20Problem%20Solver&descAlignY=58&descSize=14" width="100%"/>
 
-<div align="center">
-  <h2>✨ Welcome to My Digital Space ✨</h2>
-  <p><i>A passionate developer from the Philippines, constantly learning and building amazing things</i></p>
-</div>
+<br>
 
----
-
-## 👤 About Me
-
-<table align="center">
-  <tr>
-    <td>
-      <strong>🎓 Status</strong><br>
-      Student Developer
-    </td>
-    <td>
-      <strong>📍 Location</strong><br>
-      Philippines
-    </td>
-    <td>
-      <strong>🎯 Mission</strong><br>
-      Build Useful Apps
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-> **"Learn. Build. Repeat."** — My motto for continuous growth 🚀
+<a href="https://github.com/Jhey20-sys">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="your-linkedin-url">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Jhey20-sys&label=Profile%20Views&color=1a73e8&style=flat-square" alt="Profile Views"/>
 
 </div>
 
----
+<br>
 
-## 🌱 What I'm Up To
+## About
+
+I'm a student developer based in the Philippines with a focus on web development and a deep interest in computing research. I build software to solve real problems, and I'm currently expanding my skills across the modern web stack while exploring cybersecurity and networking fundamentals.
+
+> *"Learn. Build. Repeat."*
+
+<br>
+
+## What I'm Working On
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📚 Currently Learning</h3>
-      <p>🔥 Web Development<br>💻 JavaScript Mastery</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔍 Exploring</h3>
-      <p>🛡️ Cybersecurity<br>🌐 Network Communications</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💡 Passionate About</h3>
-      <p>🧪 Experimenting with Tools<br>⚡ Solving Real Problems</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎓 Fun Fact</h3>
-      <p>I always debug 😅<br>Sometimes more than coding!</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Currently Learning
+Building proficiency in modern web technologies, with a focus on JavaScript fundamentals and component-based architecture. Working toward full-stack capability.
+
+</td>
+<td width="50%" valign="top">
+
+#### Areas of Interest
+Cybersecurity practices, network communications, and the systems that make modern infrastructure work. Always reading, always experimenting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Current Goal
+Ship meaningful projects that demonstrate growth as a developer, contribute to open source, and prepare for industry-ready software engineering work.
+
+</td>
+<td width="50%" valign="top">
+
+#### Philosophy
+Code is a craft. I value clean structure, readable logic, and the discipline of debugging — even when it tests my patience.
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## 🛠️ My Tech Arsenal
+## Technical Skills
 
-### **Languages**
-<div>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</div>
+**Languages**
 
-### **Frontend**
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Tools & Version Control**
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-</div>
+**Tools & Platforms**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📖 My Learning Journey
+<br>
 
-<div align="center">
+## Skill Progression
 
-| Status | Skill | Progress |
-|--------|-------|----------|
-| ✅ | Python | Completed |
-| ✅ | C++ | Completed |
-| ✅ | Java | Completed |
-| ✅ | HTML | Completed |
-| ✅ | CSS | Completed |
-| ✅ | Git & GitHub | Completed |
-| 🔄 | JavaScript | In Progress |
-| 🚀 | React | Coming Soon |
-| 🎯 | Advanced Web Dev | Planned |
+| Skill | Status | Notes |
+|:------|:------:|:------|
+| Python | Proficient | Comfortable with scripting, basic OOP, and standard libraries |
+| Java | Proficient | Solid foundation in OOP and core syntax |
+| C++ | Proficient | Strong grasp of fundamentals and memory concepts |
+| HTML & CSS | Proficient | Building responsive, accessible layouts |
+| Git & GitHub | Proficient | Daily workflow for version control |
+| JavaScript | In Progress | Currently focused on ES6+ and DOM manipulation |
+| React | Planned | Next major focus area |
+| Node.js | Planned | To complement frontend learning |
 
-</div>
+<br>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhey20-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" width="48%">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhey20-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF" alt="Top Languages" width="48%">
-</div>
-
----
-
-## 🎯 What Drives Me
+## GitHub Activity
 
 <div align="center">
 
-**🧩 Computing Research**  
-Exploring the intersection of theory and practice
+<img src="https://github-readme-stats.vercel.app/api?username=Jhey20-sys&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhey20-sys&layout=compact&theme=github_dark&hide_border=true&card_width=350" alt="Top Languages" height="180"/>
 
-**⌨️ Passionate Learner**  
-Continuously evolving my skills and knowledge
+<br><br>
 
-**🚀 Problem Solver**  
-Turning ideas into functional, elegant solutions
-
-**🌟 Team Player**  
-Collaborating to build something greater together
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhey20-sys&theme=github-dark&hide_border=true" alt="GitHub Streak" width="80%"/>
 
 </div>
 
----
+<br>
 
-## 💭 Quick Facts About Me
+## Featured Projects
 
-<details>
-  <summary><b>Click to reveal fun facts! 🎉</b></summary>
-  <br>
-  
-  - 🧠 I love deep-diving into computing research
-  - 💪 I'm passionate about my computer science course
-  - 🐛 Debugging is my love-hate relationship
-  - 🌙 Often code late into the night
-  - ☕ Coffee + Code = Happiness
-  - 🎮 Gamer at heart
-  
-</details>
+> *Currently building my portfolio. Check back soon for featured work, or browse my [repositories](https://github.com/Jhey20-sys?tab=repositories) to see what I'm experimenting with.*
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤝 Let's Connect!
+#### Project Name
+Brief description of what the project does, what problem it solves, and what technologies you used. Keep it concise and impactful.
 
-<div align="center">
+`Python` `Flask` `SQLite`
 
-I'm always interested in collaborating on projects, learning new things, and meeting fellow developers! Feel free to reach out.
+[View Repository →](#)
 
-**[📧 Email](mailto:your-email@example.com) • [💼 LinkedIn](your-linkedin-url) • [🐙 GitHub](https://github.com/Jhey20-sys) • [🌐 Portfolio](your-portfolio-link)**
+</td>
+<td width="50%" valign="top">
+
+#### Project Name
+Brief description of what the project does, what problem it solves, and what technologies you used. Keep it concise and impactful.
+
+`HTML` `CSS` `JavaScript`
+
+[View Repository →](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Beyond the Code
+
+When I'm not coding, I'm reading about computing research, exploring how systems and networks operate under the hood, or thinking about how the tools we build shape the way people work. I believe technical skills matter most when paired with curiosity and the willingness to keep asking *why*.
+
+<br>
+
+## Let's Connect
+
+I'm open to collaboration, mentorship conversations, and connecting with other developers — especially fellow students navigating the same journey. If you're working on something interesting or just want to talk shop, reach out.
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhey20-sys)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing!" alt="Closing message">
-  
-  <br><br>
-  
-  <p>⭐ If you find my profile interesting, consider giving it a star! ⭐</p>
-  
-  <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=flat-square" alt="Made with love">
-  
-</div>
 
----
+<sub>Thanks for visiting. If anything here resonates, I'd love to hear from you.</sub>
 
-<div align="center">
-  <sub>Last updated: 2026 | Always learning, always growing 🌱</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00d9ff&height=80&section=footer" width="100%"/>
+
 </div>
